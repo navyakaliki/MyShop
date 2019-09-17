@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9211fe3a-4aad-427f-8bf5-02610cd9f2eb" name="Default Changelist" comment="" />
+    <list default="true" id="9211fe3a-4aad-427f-8bf5-02610cd9f2eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/FruitShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyShop/ItemShop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ItemShop.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,10 +22,24 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1QltvTcXRrjwTPEVkX3AvBORPSK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="Register" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Navya.Kaliki\apps\MyShop\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -34,8 +54,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="ItemShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ItemShop" />
+    <configuration name="FruitShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FruitShop" />
       <module name="MyShop" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -43,7 +63,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ItemShop" />
+        <item itemvalue="Application.FruitShop" />
       </list>
     </recent_temporary>
   </component>
@@ -58,11 +78,22 @@
       <option name="presentableId" value="Default" />
       <updated>1568357240799</updated>
       <workItem from="1568357243701" duration="6682000" />
-      <workItem from="1568544351305" duration="9378000" />
+      <workItem from="1568544351305" duration="13164000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
