@@ -14,9 +14,9 @@ public class FruitShop {
                         "Enter 3 to check out cart\n"+
                         "enter 4 to Exit cart\n");
                     String choice = scanner.nextLine();
-                    int apple = 1;
-                    int mango = 2;
-                    int banana = 3;
+                    int apple = 10;
+                    int mango = 20;
+                    int banana = 30;
                     switch (choice) {
                      case "1":
                          printMenu();

@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9211fe3a-4aad-427f-8bf5-02610cd9f2eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FruitShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Register.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyShop/ItemShop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ItemShop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FruitShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FruitShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Register.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +30,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="MoveMembersDialog.RECENTS_KEY">
@@ -79,6 +78,8 @@
       <updated>1568357240799</updated>
       <workItem from="1568357243701" duration="6682000" />
       <workItem from="1568544351305" duration="13164000" />
+      <workItem from="1568692233470" duration="6578000" />
+      <workItem from="1568855372557" duration="19724000" />
     </task>
     <servers />
   </component>
@@ -90,7 +91,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
